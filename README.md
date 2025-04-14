@@ -14,9 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📌 Projetos em destaque
-🔹 [Vida-Plena](https://github.com/Andressasanttos/Vida-Plena) – Sistema de agendamento e consulta de exames  
-🔹 [Dev-Dressa](https://github.com/Andressasanttos/Dev-Dressa) – Portfólio pessoal em construção  
+## 📌 Projetos em destaque 
+🔹 [Dev-Dressa](https://github.com/Andressasanttos/Dressa-Dev) – Portfólio pessoal em construção  
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-santos-969768165/)
